@@ -1,0 +1,44 @@
+{
+    "steps": [
+        {
+            "fanSpeed": 3,
+            "targetTemp": 350,
+            "sectionTime": 120
+        },
+        {
+            "fanSpeed": 5,
+            "targetTemp": 400,
+            "sectionTime": 120
+        },
+        {
+            "fanSpeed": 6,
+            "targetTemp": 550,
+            "sectionTime": 180
+        },
+        {
+            "fanSpeed": 5,
+            "targetTemp": 500,
+            "sectionTime": 120
+        },
+        {
+            "fanSpeed": 5,
+            "targetTemp": 500,
+            "sectionTime": 60
+        }
+    ],
+    "creator": "Ryan",
+    "bean": {
+        "country": "",
+        "source": {
+            "link": "",
+            "reseller": ""
+        },
+        "region": ""
+    },
+    "roastDescription": {
+        "description": "first roast",
+        "roastType": "med"
+    },
+    "roastName": "Matt's a wonderful person",
+    "totalTime": 600
+}
